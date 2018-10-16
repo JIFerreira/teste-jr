@@ -1,0 +1,38 @@
+body{
+	background: #ffffff;
+}
+
+/*
+
+	Página da Listagem
+
+*/
+nav.navbar.navbar-default{
+  background: #2F4F4F;
+}
+
+nav.navbar.navbar-default .container--nobootstrap{
+	width: 99%;
+}
+
+nav.navbar.navbar-default a{
+  color: #ffffff;
+}
+
+nav.navbar.navbar-default a:hover{
+	font-weight: 700;
+	color:#00FA9A;
+	font-size: 14px;
+}
+
+
+/*
+
+	Página do formulário
+
+*/
+
+.container-center{
+	float: none;
+	margin: 0 auto;
+}
